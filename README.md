@@ -44,8 +44,6 @@ Bangalore, Karnataka • Passionate about AI-driven solutions, Machine Learning,
 ### Let's Connect  
 
 - Email: parasmunoli@gmail.com  
-- LinkedIn: [Paras Munoli](https://www.linkedin.com/in/parasmunoli)  
-- GitHub: [ParasMunoli](https://github.com/parasmunoli)  
-- Portfolio: [your-portfolio-link](http://parasmunoli.dev)  
-
-Thanks for stopping by—always open to **collaborations, internships, or exciting AI projects**!  
+- LinkedIn: [in/parasmunoli](https://www.linkedin.com/in/parasmunoli)  
+- GitHub: [github/parasmunoli](https://github.com/parasmunoli)  
+- Portfolio: [parasmunoli.dev](http://parasmunoli.dev)  
