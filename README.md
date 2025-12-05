@@ -46,8 +46,7 @@ Bangalore, Karnataka • Passionate about AI-driven solutions, Machine Learning,
 - Email: parasmunoli@gmail.com  
 - LinkedIn: [in/parasmunoli](https://www.linkedin.com/in/parasmunoli)  
 - GitHub: [github/parasmunoli](https://github.com/parasmunoli)  
-- Portfolio: [parasmunoli.dev](http://parasmunoli.dev)    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=parasmunoli&theme=radical&hide_border=false" alt="Streak Stats" width="45%" height="1000px"/>
-</p>
+- Portfolio: [parasmunoli.dev](http://parasmunoli.dev)
 
 ### Let's Connect  
 
