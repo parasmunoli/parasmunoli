@@ -32,14 +32,15 @@ Bangalore, Karnataka • Passionate about AI-driven solutions, Machine Learning,
 
 <!-- Top full-width stats card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parasmunoli&show_icons=true&theme=radical" alt="Paras's GitHub Stats" width="70%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=parasmunoli&show_icons=true&theme=radical" alt="Paras's GitHub Stats" width="70%"/> -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=parasmunoli&theme=radical&hide_border=false" alt="Streak Stats" width="45%" height="1000px"/>
 </p>
 
 <!-- Two cards in the next row, equal width -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasmunoli&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="45%" height="500px"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=parasmunoli&theme=radical&hide_border=false" alt="Streak Stats" width="45%" height="1000px"/>
-</p>
+</p> -->
 
 ### Let's Connect  
 
